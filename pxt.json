@@ -1,5 +1,6 @@
 {
     "name": "stay alive for 1 minute",
+    "version": "0.0.1",
     "description": "",
     "dependencies": {
         "device": "*",
